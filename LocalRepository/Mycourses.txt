@@ -1,0 +1,6 @@
+1. Business Communication 
+2. Seminar in Character Development
+3. Human-Computer Interaction
+4. Object Oriented Programming
+5. Front End Web developer
+6. Management Information System
